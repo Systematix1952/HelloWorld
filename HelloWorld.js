@@ -2,7 +2,7 @@ var Startup = (function () {
     function Startup() {
     }
     Startup.main = function () {
-        console.log('Hello branch world');
+        console.log('Hello  checked out  world');
         return 0;
     };
     return Startup;
